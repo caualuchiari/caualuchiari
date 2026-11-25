@@ -1,9 +1,11 @@
 Estudante de T.I. em busca da minha primeira oportunidade.
 
+### 🎯 O que estou aprendendo
 - ESTUDANDO: Suporte técnico, Banco de Dados, Programação
 - FOCO ATUAL: Python, HTML/CSS, MySQL, Manutenção de Computadores
 - BUSCANDO VAGAS DE: Estagio, Junior em T.I.
 
+### 🚀 Meus Projetos
 - PROJETO 1 - EM BREVE
 - PROJETO 2 - EM BREVE
 - PROJETO 3 - EM BREVE
@@ -15,7 +17,7 @@ Estudante de T.I. em busca da minha primeira oportunidade.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- CONTATO:
+### 📬 Contato
 - Linkedin: Cauã Luchiari 
 - GitHub: github.com/caualuchiari
 - Email: caua31295@gmail.com 
